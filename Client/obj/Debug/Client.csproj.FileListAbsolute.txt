@@ -1,0 +1,12 @@
+D:\Unik\KSIS\Kursach_4sem\Kursach4Sem\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Unik\KSIS\Kursach_4sem\Kursach4Sem\Client\obj\Debug\Client.Form1.resources
+D:\Unik\KSIS\Kursach_4sem\Kursach4Sem\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Unik\KSIS\Kursach_4sem\Kursach4Sem\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Unik\KSIS\Kursach_4sem\Kursach4Sem\Client\obj\Debug\Client.Form2.resources
+D:\Unik\KSIS\Kursach_4sem\Kursach4Sem\Client\obj\Debug\Client.HelpForm.resources
+D:\Unik\KSIS\Kursach_4sem\Kursach4Sem\Client\obj\Debug\Client.AboutForm.resources
+D:\Unik\KSIS\Kursach_4sem\Kursach4Sem\Client\bin\Debug\Словарь терминов модели OSI.exe.config
+D:\Unik\KSIS\Kursach_4sem\Kursach4Sem\Client\bin\Debug\Словарь терминов модели OSI.exe
+D:\Unik\KSIS\Kursach_4sem\Kursach4Sem\Client\bin\Debug\Словарь терминов модели OSI.pdb
+D:\Unik\KSIS\Kursach_4sem\Kursach4Sem\Client\obj\Debug\Словарь терминов модели OSI.exe
+D:\Unik\KSIS\Kursach_4sem\Kursach4Sem\Client\obj\Debug\Словарь терминов модели OSI.pdb

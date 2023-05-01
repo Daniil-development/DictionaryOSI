@@ -1,0 +1,6 @@
+D:\Unik\KSIS\Kursach_4sem\Kursach4Sem\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Unik\KSIS\Kursach_4sem\Kursach4Sem\Server\bin\Debug\Сервер словаря сокращений модели OSI.exe.config
+D:\Unik\KSIS\Kursach_4sem\Kursach4Sem\Server\bin\Debug\Сервер словаря сокращений модели OSI.exe
+D:\Unik\KSIS\Kursach_4sem\Kursach4Sem\Server\bin\Debug\Сервер словаря сокращений модели OSI.pdb
+D:\Unik\KSIS\Kursach_4sem\Kursach4Sem\Server\obj\Debug\Сервер словаря сокращений модели OSI.exe
+D:\Unik\KSIS\Kursach_4sem\Kursach4Sem\Server\obj\Debug\Сервер словаря сокращений модели OSI.pdb
